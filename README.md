@@ -1,0 +1,3 @@
+Imagine you are a junior data scientist working for a real estate analytics firm. Your team is tasked with understanding how median income levels in different neighborhoods impact housing prices. The company is developing a pricing model to help real estate investors make data-driven decisions. As a first step, your manager asks you to analyze the relationship between Median Income (MedInc) and Median House Value (MedianHouseValue) using a simple linear regression model.
+
+Understanding the relationship between income levels and housing prices is crucial in various industries, including real estate investment, urban planning, and mortgage risk assessment.
